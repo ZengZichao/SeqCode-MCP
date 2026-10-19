@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "seqcode": {
+      "command": "python",
+      "args": ["-m", "seqcode_mcp.server"]
+    }
+  }
+}
