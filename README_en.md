@@ -87,8 +87,8 @@ All information in the SeqCode Registry is released under the [CC BY 4.0](https:
 
 ```bash
 # Clone the project
-git clone https://github.com/SeqCode-MCP/seqcode-mcp.git
-cd seqcode-mcp
+git clone https://github.com/ZengZichao/SeqCode-MCP.git
+cd SeqCode-MCP
 
 # Install (virtual environment recommended)
 pip install -e .

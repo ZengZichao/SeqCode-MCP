@@ -42,8 +42,8 @@ dev = [
 seqcode-mcp = "seqcode_mcp.server:main"
 
 [project.urls]
-Homepage = "https://github.com/SeqCode-MCP/seqcode-mcp"
-Repository = "https://github.com/SeqCode-MCP/seqcode-mcp"
+Homepage = "https://github.com/ZengZichao/SeqCode-MCP"
+Repository = "https://github.com/ZengZichao/SeqCode-MCP"
 SeqCode = "https://registry.seqco.de/"
 
 [tool.setuptools.packages.find]

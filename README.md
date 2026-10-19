@@ -87,8 +87,8 @@ SeqCode Registry 中的所有信息均在 [CC BY 4.0](https://creativecommons.or
 
 ```bash
 # 克隆项目
-git clone https://github.com/SeqCode-MCP/seqcode-mcp.git
-cd seqcode-mcp
+git clone https://github.com/ZengZichao/SeqCode-MCP.git
+cd SeqCode-MCP
 
 # 安装（推荐使用虚拟环境）
 pip install -e .
